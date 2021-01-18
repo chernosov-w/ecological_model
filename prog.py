@@ -81,7 +81,7 @@ def char(obj):
 A = [char(EAT[0])]
 B = [char(BAC[0])]
 C = []
-
+K = True
 
 # функции
 
